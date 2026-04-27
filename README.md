@@ -6,9 +6,12 @@ Life time earnings, employment and economic opportunities are heavily linked to 
 
 # Data 
 GCSE_Results.csv - This file contains data on GCSE attainment across multiple years including 2015 for Stockport LSOAs.
+
 IMD 2015.csv - This file contains the Index of Multiple Deprivation (IMD) rank and deciles in which different LSOAs in Stockport fall into. 
+
 StockportLSOA.gpkg - This file contains coordinates and data on all the 2011 LSOAs in Stockport needed for spatial visualisation.  
-WorkingAssignment.ipynb - This is the main Jupyter notebook containing the research analysis
+
+WorkingAssignment.ipynb - This is the main Jupyter notebook containing the research analysis.
 
 ***Note - The StockportLSOA.gpkg file contains the GCSE data linked because all UK files were cut to just Sotckport's LSOAs using the GCSE_Results.csv file on QGIS. This is explained in the comments and the unwanted columns are removed during the pre-processing steps of the research. 
 
