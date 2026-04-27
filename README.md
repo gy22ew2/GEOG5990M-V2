@@ -12,14 +12,20 @@ IMD 2015.csv - This file contains Index of Multiple Deprivation (IMD) data for S
   - IMD data = https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015 (Gov.Uk, 2015)
 
 StockportLSOA.gpkg - This file contains the 2011 LSOA boundary data for Stockport used for spatial visualisation.
-  -LSOA boundaries = https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-ew-bfc-v3/explore?location=53.391499%2C-2.144144%2C13 (Open Geography Portal, 2023)
+  - LSOA boundaries = https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-ew-bfc-v3/explore?location=53.391499%2C-2.144144%2C13 (Open Geography Portal, 2023)
   
 WorkingAssignment.ipynb - This is the main Jupyter notebook containing the research analysis.
 
 ***Note - The StockportLSOA.gpkg file contains the GCSE data linked because all UK files were cut to just Stockport's LSOAs using the GCSE_Results.csv file on QGIS. This is explained in the comments and the unwanted columns are removed during the pre-processing steps of the research. 
 
 # Aims of the code
-
+1. Load the above data
+2. Clean and preprocess said data
+3. Join the datasets to create a 'master' file
+4. Explore the relationship between deprivation and GCSE attainment through Spearman's rank correlation
+5. Produce a set of non-spatial visualisation, including a final professional boxplot
+6. Produce a set of spatial visualisations, including the distribution of IMD deciles and GCSE attainment in Stockport
+7. Use K-means clustering to identify LSOAs with similar profiles in relation to GCSE attainment and deprivation, including a final professional map of said clusters. 
 
 
 # References 
