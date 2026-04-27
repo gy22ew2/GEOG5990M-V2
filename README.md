@@ -1,2 +1,4 @@
 # GEOG5990M-V2
-Final Project Repository
+Uncovering the relationship between GCSE attainment and deprivation in Stockport.
+# Project Background 
+This project investigates 
