@@ -23,7 +23,7 @@ WorkingAssignment.ipynb - This is the main Jupyter notebook containing the resea
 2. Clean and preprocess said data
 3. Join the datasets to create a 'master' file
 4. Explore the relationship between deprivation and GCSE attainment through Spearman's rank correlation
-5. Produce a set of non-spatial visualisation, including a final professional boxplot
+5. Produce a set of non-spatial visualisations, including a final professional boxplot
 6. Produce a set of spatial visualisations, including the distribution of IMD deciles and GCSE attainment in Stockport
 7. Use K-means clustering to identify LSOAs with similar profiles in relation to GCSE attainment and deprivation, including a final professional map of said clusters. 
 
