@@ -5,5 +5,7 @@ This project investigates the relationship between GCSE attainment and deprivati
 Life time earnings, employment and job prosperity are heavily linked to GCSE attainment and thus this research aims to highlight where policymakers should focus efforts in increasing GCSE attainment for children in Stockport (Hodge et al, 2021). In addition, understanding whether deprivation has a relationship with GCSE attainment would provide further guidance in how policymakers could increase GCSE attainment. Research has already been done on the impacts of deprivation on GCSE attainment and thus this research is to uncover this pattern for Stockport specifically (Hills et al, 2025). 
 # References 
 Hills, S. Walker, M. Guinn, J. Kent, A. 2025. The GCSE attainment gap: Assessing the influence of permenant school exclusion. British Educational Research Journal. [Online]. Vol 51(5): p.1481-1497. [Accessed: 27/04/2026]. Available from: https://doi.org/10.1002/berj.4133 
+
 Hodge, L. Little, A. Weldon, M. 2021. GCSE attainment and lifetime earnings. [Online]. Department for Education. [Accessed: 27/04/2026]. Available from: https://assets.publishing.service.gov.uk/media/60c36f0cd3bf7f4bd11a2326/GCSE_Attainment_and_Lifetime_Earnings_PDF3A.pdf  
+
 Ketchen, D. Roccapriore, A. Connelly, B. Using Old Data: When is it Appropriate?. Journal of Management. [Online]. Vol 49(8). [Accessed: 05/04/2026]. Available from: https://doi.org/10.1177/01492063231177785 
