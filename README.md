@@ -27,6 +27,10 @@ WorkingAssignment.ipynb - This is the main Jupyter notebook containing the resea
 6. Produce a set of spatial visualisations, including the distribution of IMD deciles and GCSE attainment in Stockport
 7. Use K-means clustering to identify LSOAs with similar profiles in relation to GCSE attainment and deprivation, including a final professional map of said clusters. 
 
+# Running the notebook and reproducibility
+1. Download all data files attached in this repository and save them to your device
+2. Open WorkingAssignment.ipynb
+3. Install the required Python packages and beginning running the notebook cells
 
 # References 
 Data Mill North. 2017. Stockport GCSE Results. Stockport Metropolitan Borough Council. [Online]. [Accessed: 16/04/2026]. Available from: https://datamillnorth.org/dataset/stockport-gcse-results-vdmqm  
